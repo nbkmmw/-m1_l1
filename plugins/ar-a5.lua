@@ -2,7 +2,7 @@
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
 ▀▄ ▄▀    BY SAJJAD NOORI                   ▀▄ ▄▀ 
-▀▄ ▄▀     BY SAJAD NOORI (@SAJJADNOORI)    ▀▄ ▄▀ 
+▀▄ ▄▀     BY SAJAD NOORI (@SAJJADNOORI)    ▀▄l ▄
 ▀▄ ▄▀ JUST WRITED BY SAJJAD NOORI          ▀▄ ▄▀   
 ▀▄ ▄▀      help dev  : اوامر المطور        ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
@@ -12,7 +12,7 @@ do
 local function run(msg, matches)
 local reply_id = msg['id']
 if is_sudo(msg) and matches[1]== "م المطور" then
-local S = [[  قبل لتشوف الاوامر تابع قناة السورس @S94IQ ❤️💋
+local S = [[  �
 
 ✔️تعمل جميع الاوامر بدون وضع / او !
 ا🔸➖🔹➖🔸➖🔹➖🔸
@@ -43,9 +43,8 @@ local S = [[  قبل لتشوف الاوامر تابع قناة السورس @S
 ا🔸➖🔹➖🔸➖🔹➖🔸
 🃏🔺للأستفسار:- راسل المطور :- ☢⚜ 
 ✋🏿👇🏿
-#Dev : @SAJJADNOORI
-#Dev_bot : @S94_BOT
-#Dev_Channel : @S94IQ
+#Dev : @M1_l1
+#Dev : @M1_l1
 ]]
 reply_msg(reply_id, S, ok_cb, false)
 end
