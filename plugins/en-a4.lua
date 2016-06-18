@@ -17,8 +17,8 @@ Bot, who works on the supergroups🔸
 Bot to work on the super groups of up to 5 k Membe🔷
 
      ≪It has been making the bot by the developer≫
-                      『 @SAJJADNOORI 』
-            🔹#Dev #SAJJADNOORI🔹
+                      『 @M1_l1 』
+            �
 ]]
 end
 
