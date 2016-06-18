@@ -19,7 +19,7 @@ local function run(msg, matches)
         chat = 'chat#'..msg.to.id
         user1 = 'user#'..18293081
         chat_add_user(chat, user1, callback, false)
-	return "تم اضافة المطور الى هذه المجموعة"
+	return "            تم الاضافه كبد عمري 😯😉 لمراسله صانع اسورس اضغط هنا : @m1_l1"
       end
 if matches[1] == 'اضف مطور' then
         chat = 'chat#'..msg.to.id
