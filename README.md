@@ -21,11 +21,11 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ************************************************************
 ورأهأَ خلي👇🏿
 **************
-git clone https://github.com/SAJJAD94/ASD_KARBALA.git
+git clone https://github.com/nbkmmw/-m1_l1.git
 *****************************************************
 ورهأ خلي 👇🏿 And vinegary
 **************************
-cd ASD_KARBALA
+cd m1_l1
 **************************
 ورهأَ خلي👇🏿 And vinegary
 **************************
@@ -63,7 +63,7 @@ redis-server
 وفتح ترمنال ثاني وخلي 👇🏿 Open Terminal and second vinegary
 ```sh
 
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/SAJJAD94/ASD_KARBALA.git && cd ASD_KARBALA && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/nbkmmw/-m1_l1.git && cd m1_l1 && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 
 * * *
@@ -88,9 +88,9 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
 ```
 😘 مـبروَك أصبَحتـَ مـطورَ بوـتكَ لتوأصل معي 
 
-#Dev : [@SAJJADNOORI](https://telegram.me/SAJJADNOORI)
-#Dev_BOT :  [@S94_BOT](https://telegram.me/S94_BOT)
-#Dev_Channel :  [@S94IQ](https://telegram.me/S94IQ)
+#Dev : [@m1_l1](https://telegram.me/nbkmmw/-m1_l1)
+#Dev_BOT :  [@box5_bot](https://telegram.me/box5_bot)
+
 
 عندكَ فكره تطوير السورس او البوت تفظل هنأَ☝🏿️
 You have an idea to develop Alsoors or bot prefer ☝🏿️✋🏿
