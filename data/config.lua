@@ -68,7 +68,7 @@ do local _ = {
     "en-a3",
     "ar-a5",
     "en-a4",
-    "ar-a6",
+    "a6",
     "en-a5",
     "ar-help",
   },
