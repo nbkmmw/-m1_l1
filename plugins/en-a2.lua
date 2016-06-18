@@ -83,9 +83,8 @@ return [[  ❣ setadmin : لرفع اداري للمجموعه
 
 
  Version :1.0
-#Dev : @SAJJADNOORI
-#Dev_bot : @S94_BOT
-#Dev_Channel : @S94IQ
+#Dev : @M1_l1
+#Dev : @M1_l1
 ]]
 end
 
