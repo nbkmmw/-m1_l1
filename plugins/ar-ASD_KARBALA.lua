@@ -12,7 +12,7 @@ do
 
 function run(msg, matches)
 local reply_id = msg['id']
-  local S = '❣  السورس 🛢 ASD_KARBALA 📁\n❣  الاصدار 📋 v1.2\n❣ الموقع 💻\n \nhttps://github.com/SAJJAD94/ASD_KARBALA.git \n❣   #المطور : @SAJJADNOORI \n❣ #بوت_المطور : @S94_BOT \n ❣ #قناة_البوت : @S94IQ'
+  local S = '❣  للتحدث مع المطور اضغط هنا :@m1_l1 وللتحدث مع صانع السورس اضغط هنا :@m1_l1'
 reply_msg(reply_id, S, ok_cb, false)
 end
 
