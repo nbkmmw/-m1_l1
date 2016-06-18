@@ -11,7 +11,7 @@
 do
 
 function run(msg, matches)
-  return '❣ Source 🛢 ASD_KARBALA 📁\n❣ Version 📋 v1.2\n❣ Location 💻\n \nhttps://github.com/SAJJAD94/ASD_KARBALA.git \n❣  #Dev 🕵🔧 : \n❣ #Dev : @SAJJADNOORI \n❣ #Dev_bot @S94_BOT \n❣ #Dev_Channel @S94IQ'
+  return '❣ Source 🛢@m1_l1 '
 end
 return {
   patterns = {
